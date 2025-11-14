@@ -1,0 +1,3 @@
+What is the capital of India?|||Mumbai|||Delhi|||Kolkata|||Chennai|||1
+Which language is primarily used for AI development?|||Python|||C|||Java|||C++|||0
+Who developed C++?|||Dennis Ritchie|||James Gosling|||Bjarne Stroustrup|||Guido van Rossum|||2
