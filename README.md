@@ -19,3 +19,8 @@ quiz_app.cpp
 questions.txt        (auto-created on first run)
 leaderboard.txt      (auto-created)
 README.md
+
+Student Details :
+Manav Awana 1/24/SET/BCS/170
+Ankita Mishra  1/24/SET/BCS/163
+Shreya Kanthal 1/24/SET/BCS/171
